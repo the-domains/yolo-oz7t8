@@ -13,4 +13,8 @@ color:
 github: true
 layout_spectrum: 0.10170637210831046
 name: Yolo
+navigation:
+  - name: PUNKASS
+    id: 361d8f86-84f0-4f04-96b2-687cd16c8158
+    type: content
 content: []
