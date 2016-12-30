@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yolo]]></title>
+        <description><![CDATA[Yolo]]></description>
+        <link>https://thegrid.ai/yolo-oz7t8/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Dec 2016 18:17:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yolo-oz7t8/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 30 Dec 2016 18:17:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Poor Man's Windows Security Metrics with Ansible, Powershell, and Bash]]></title>
+            <description><![CDATA[<article><h1>Poor Man's Windows Security Metrics with Ansible, Powershell, and Bash</h1><p>17 MAY 2016 on defense, technical, workflow, devops, ansible</p></article>]]></description>
+            <link>https://thegrid.ai/yolo-oz7t8/poor-mans-windows-security-metrics-with-ansible-powershell/index.html</link>
+            <guid isPermaLink="false">361d8f86-84f0-4f04-96b2-687cd16c8158</guid>
+            <pubDate>Fri, 30 Dec 2016 18:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quick TR069 Botnet Writeup + Triage]]></title>
+            <description><![CDATA[<article><h1>Quick TR069 Botnet Writeup + Triage</h1><p>29 NOVEMBER 2016 on malware, botnet, honeypots, mass scanning, technical</p></article>]]></description>
+            <link>https://thegrid.ai/yolo-oz7t8/quick-tr069-botnet-writeup-triage/index.html</link>
+            <guid isPermaLink="false">d5325b1f-de59-4f91-9a21-77f32233d569</guid>
+            <pubDate>Fri, 30 Dec 2016 18:12:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
